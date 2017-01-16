@@ -46,7 +46,7 @@ class sdist(_sdist):
 
 
 setup(
-    name='cystatsd',
+    name='ql-cystatsd',
     version='1.1.0',
     description="A c++/cython statsd encoder.  It doesn't make any network calls; it just handles batch encoding.",
     classifiers=[
